@@ -1,6 +1,9 @@
 # Contributing
+ 
+# Comment
+Please send an email to harry.liepelt@gmail.com
 
-Your contributions are always welcome!
+# Your contributions are always welcome!
 
 ## Guidelines
 
